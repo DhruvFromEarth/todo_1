@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "todo": "buy milk",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "todo": "get food",
+    "status": "completed"
+  },
+  {
+    "id": 5,
+    "todo": "buy berries",
+    "status": "pending"
+  },
+  {
+    "id": 6,
+    "todo": "exercise",
+    "status": "pending"
+  },
+  {
+    "id": 7,
+    "todo": "read book",
+    "status": "completed"
+  }
+]
